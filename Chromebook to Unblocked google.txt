@@ -1,0 +1,16 @@
+Chromebook to Unblocked google
+1. Get to sign in screen
+2. Click Sign In with Microsoft
+3. Click Sign In Options
+4. Click Sign In with GitHub
+5. Scroll down and click Docs
+6. Scroll down and click Ask the GitHub Community
+7. Click the search icon in top right, clear what's already in it and search "google"
+8. Click the second result: "google/googletest"
+9. Click google next to google/googletest in the top left
+10. Click material-design-icons
+11. Scroll down and click "https://fonts.google.com/icons"
+12. Scroll all the way down (takes a while) and click Terms Of Service in bottom right
+13. Click 3 lines in top left
+14. Click Google in top left
+15. 🙂
